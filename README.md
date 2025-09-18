@@ -1,5 +1,5 @@
 # Data Analysis
-![](https://github.com/WaiKani/DataAnalysis/blob/main/Is%20Data%20Analytics%20Right%20for%20Me.jpg.webp)
+![](https://github.com/WaiKani/DataAnalysis/blob/main/Capstone%204.jpg)
 
 # Project- Capstone 2
 

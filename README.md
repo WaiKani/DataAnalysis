@@ -33,11 +33,9 @@ This could be something as simple as customer service, to name a few.
 
 
 
-
+![](https://github.com/WaiKani/DataAnalysis/blob/main/Data_analysis_hero.jpg)
 
 ## Capstone 4
-![](https://github.com/WaiKani/DataAnalysis/blob/main/images.png)
-
 
 ## Employee Survey Responses 
 The Employee Survey Responses are actual responses from an employee engagement survey conducted 
@@ -45,7 +43,7 @@ by Pierce County WA and completed voluntarily by government employees. The datas
 and contains 14,725 records. The total number of fields is 10. 
 Analyze the dataset and provide answers to the questions listed below: 
 
-![](https://github.com/WaiKani/DataAnalysis/blob/main/Capstone44.jpg)
+![](https://github.com/WaiKani/DataAnalysis/blob/main/LinkedIn%204.jpg)
 
 ## Question 1
 Which survey questions did respondents agree with or disagree with most?
@@ -65,4 +63,7 @@ As an employer, what steps might you take to improve employee satisfaction based
 As per the pie chart, most people agree that they know what’s expected of them. One can continue what the company is doing, but make changes to reduce the dissatisfaction. Considering most respondents were supervisors, one can go in depth to see where the disagreements are coming from; so that one can focus on them.
 
 
+
+### Connect with me:
+[LinkedIn] (https://www.linkedin.com/in/elaine-kaniaru-ke/)
 

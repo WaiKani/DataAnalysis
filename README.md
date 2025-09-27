@@ -107,7 +107,7 @@ Make a graph of the number of shark attacks annually over time since 1900. What 
 
 ![](https://github.com/WaiKani/DataAnalysis/blob/main/Cap56%20(6).jpg)
 
-We see a high number of cases at the beginning but numbers decreasing over the years.
+We see a high number of cases at the beginning but numbers are decreasing over the years.
 
 ## Question 2
 
@@ -118,8 +118,8 @@ to be the most dangerous?
 ![](https://github.com/WaiKani/DataAnalysis/blob/main/Cap56%20(4).jpg)
 
 
-Austalia, USA and South Africa were found to have the highest shark attacks.
-Australia had New South Wales, South Africa: Kwa-Zulu Natal and USA: Florida had the most attacks.
+Australia, USA, and South Africa were found to have the highest shark attacks.
+Australia had New South Wales, South Africa: Kwa-Zulu-Natal Natal and the USA: Florida had the most attacks.
 
 ## Question 3 
 
@@ -127,7 +127,7 @@ What body parts are most often injured?
 
 ![](https://github.com/WaiKani/DataAnalysis/blob/main/Cap56%20(3)%20(1).jpg)
 
-Body parts rarely injured was the face and body while leg, arm and foot appeared to be the most injured.
+Body parts rarely injured were the face and body while leg, arm and foot appeared to be the most injured.
 
 ## Question 4
 
@@ -137,7 +137,7 @@ Are shark attacks more common during certain parts of the day?
 
 Attacks seem to happen mostly in the afternoon.
 
-## Question 6 
+## Question 5 
 
 Which species of shark are attacking most often? 
 

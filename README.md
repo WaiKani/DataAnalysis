@@ -18,7 +18,7 @@ and present it in the form of a single-page report or dashboard.
 ## Results
 
 
-![](https://github.com/WaiKani/DataAnalysis/blob/main/Capstone%2022.jpg)
+![](https://github.com/WaiKani/DataAnalysis/blob/ccc7c54db9cfb13002b7d5c031e317e54112305f/Dano%20airline.jpg)
 
 
 From the first graph, we see that lack of satisfaction is high with Economy and Economy-plus, unlike business travel.
